@@ -19,7 +19,8 @@ brew install node
 Using **Terminal**, run each day using:
 
 ```
-node day-1.js
+cd day-1
+node index.js
 ```
 
 The results will be output in the console.
